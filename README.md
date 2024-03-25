@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniket Verma
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ML Projects.
+- 👀 I’m interested in Fullstack Web Development.
+- 🌱 I’m currently learning Blockchain Technology.
+- 💞️ I’m looking to collaborate on Blockchain Projects.
 - 📫 E-mail->aniket.verma213@gmail.com
 
 <!---
